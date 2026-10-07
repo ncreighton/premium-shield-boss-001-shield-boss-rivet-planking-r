@@ -1,0 +1,2 @@
+# premium-shield-boss-001-shield-boss-rivet-planking-r
+Tracking shield boss rivets and planking details across multiple craft rounds is chaos—spreadsheets fail, inspiration gets lost, and your production workflow stumbles. The Shield Boss Rivet &amp; Planking Round Craft Hub solves this by centralizing every design decision, material spec, and round iteration in one visual Notion workspace.  This template
